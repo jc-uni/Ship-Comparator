@@ -1,0 +1,64 @@
+{
+  "ships": [
+    {
+      "cruise-": [
+        {
+          "name": "MS Nordlys",
+          "length": "121.8",
+          "beam": "19.2",
+          "draught": "4.7",
+          "crew": "55",
+          "speed": "18"
+        },
+        {
+          "name": "Oasis of the Seas",
+          "length": "360",
+          "beam": "47",
+          "draught": "9.32",
+          "crew": "2181",
+          "speed": "24.5"
+        }
+      ]
+    },
+    {
+      "war-": [
+        {
+          "name": "U.S.S Iowa",
+          "length": "273.43",
+          "beam": "32.97",
+          "draught": "11.33",
+          "crew": "2788",
+          "speed": "33"
+        },
+        {
+          "name": "KNM Fridtjof Nansen",
+          "length": "134",
+          "beam": "16.8",
+          "draught": "7.6",
+          "crew": "120",
+          "speed": "27"
+        }
+      ]
+    },
+    {
+      "cargo-": [
+        {
+          "name": "Ever Given",
+          "length": "399.94",
+          "beam": "58.8",
+          "draught": "14.5",
+          "crew": "25",
+          "speed": "22.8"
+        },
+        {
+          "name": "Fotan",
+          "length": "3",
+          "beam": "1",
+          "draught": "0.3",
+          "crew": "1",
+          "speed": "10"
+        }
+      ]
+    }
+  ]
+}
